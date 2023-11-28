@@ -1,0 +1,1 @@
+# qrCodeGenerator_Js
